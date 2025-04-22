@@ -6,7 +6,7 @@ Este es un repositorio privado donde almaceno mis ensayos personales y proyectos
 
 ## 🧠 Sobre mí
 
-Soy un desarrollador apasionado por el ecosistema de JavaScript, especialmente en el entorno de Node.js. Este espacio está dedicado a recopilar mis pensamientos, experiencias y conocimientos en forma de ensayos y proyectos personales.
+Soy un desarrollador entusiasta del ecosistema de JavaScript, especialmente en el entorno de Node.js. Este espacio está dedicado a recopilar mis pensamientos, experiencias y conocimientos en forma de ensayos y proyectos personales.
 
 ## 💻 Stack tecnológico
 
