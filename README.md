@@ -32,11 +32,12 @@ Soy un desarrollador entusiasta del ecosistema de JavaScript, especialmente en e
 
 ## 📝 Ensayos y reflexiones
 
-Este repositorio alberga mis reflexiones sobre:
+Este repositorio alberga mis investigaciones sobre:
 - Patrones de diseño en el desarrollo de software
 - Arquitectura de aplicaciones
 - Buenas prácticas en el desarrollo web moderno
 - Experiencias y lecciones aprendidas en proyectos
+  Nota: Cabe destacar que muchas de estas cosas han sido busquedas en las cuales la redacción fue hecha mediante inteligencia artificial, esto me dio mayor agilidad en las busquedas y recopilaciones en la mayoria de los casos. Un lector atento podrá notar la diferencia de lo escrito por mi y lo redactado mediante IA.
 
 ## 🌱 Aprendizaje continuo
 
