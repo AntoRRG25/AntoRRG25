@@ -15,6 +15,7 @@ Soy un desarrollador entusiasta del ecosistema de JavaScript, especialmente en e
 - **Express** - Framework web minimalista y flexible
 - **Fastify** - Framework web enfocado en proporcionar la mejor experiencia para desarrolladores con el mínimo overhead
 - **JWT** - Autenticación segura con JSON Web Tokens
+- **RUST** - Programacion de apps de consola, escritorio y apis con cargo (inicial a 7-7-25).
 
 ### Frontend
 - **React** - Biblioteca JavaScript para construir interfaces de usuario
